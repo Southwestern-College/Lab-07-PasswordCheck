@@ -1,4 +1,4 @@
-# Project: Password Check
+# Lab: Password Check
 
 ## Program Description
 Write a Java method to check whether a string is a valid password.
