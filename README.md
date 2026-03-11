@@ -70,9 +70,15 @@ Complete the following methods:
   - `isValidPassword` must print an error message for each password rule that has been violated.
 
 ## CODING STANDARDS
-- Adhere to the program specifications.
-- Use meaningful variable names.
-- Remove any auto-generated comments.
-- Use [JavaDoc](https://en.wikipedia.org/wiki/Javadoc) to document your code.
-- Include a program description and attribute yourself using the `@author` tag.
-- Your output should be user-friendly.
+- Follow the program specifications exactly.
+- Use meaningful identifiers and follow Java naming conventions.
+- Remove all auto-generated comments and unused code.
+- Document code using [JavaDoc](https://www.baeldung.com/javadoc), including:
+   - Program/class description
+   - Attribution using the `@author` tag.
+- Comment only when necessary.
+- Format code cleanly and consistently
+   - Proper indentation
+   - Brace alignment
+   - Whitespace for readability
+- Ensure prompts and output are clear and properly formatted.
