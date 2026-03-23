@@ -68,6 +68,7 @@ Complete the following methods:
 - `isSpecialCharacter(char ch)`: Returns true if the argument is a valid special character, otherwise returns false.
 - `isValidPassword(String password)`: Returns true if the argument is a valid password, otherwise returns false.
   - `isValidPassword` must print an error message for each password rule that has been violated.
+  - In Java, `System.err` is used for outputting error messages and diagnostic information.
 
 ## CODING STANDARDS
 - Follow the program specifications exactly.
